@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="wk5_Suite">
+  <test name="wk5_Test">
+    <classes>
+      <class name="homeassignment.wk5.CreateLead"/>
+       <class name="homeassignment.wk5.EditLead"/>
+      <class name="homeassignment.wk5.DeleteLead"/>
+      <class name="homeassignment.wk5.MergeLead"/>
+    </classes>
+  </test> <!-- wk5_Test -->
+</suite> <!-- wk5_Suite -->
